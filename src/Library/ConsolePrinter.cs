@@ -15,6 +15,6 @@ namespace Full_GRASP_And_SOLID.Library
             }
         }
         //Principio SRP: Esta clase tiene la única responsabilidad de imprimir las recetas
-        //Princpio Expert: Esta clase tiene toda la información que necesita para imprimir las recetas
+        //Princpio Expert: Esta clase tiene toda la información que necesita para imprimir las recetas (la saca de un parámetro)
     }
 }
